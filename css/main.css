@@ -36,6 +36,15 @@ footer {
     margin: 0 auto;
     text-align: center;
 }
+ul.headerlist>li {
+    display: inline-block;
+    padding: 7px;
+
+}
+.nostyle {
+    text-decoration: inherit;
+    color: inherit;
+}
 
 
 
