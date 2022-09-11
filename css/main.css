@@ -46,6 +46,15 @@ ul.headerlist>li {
     color: inherit;
 }
 
+.info { 
+    height: 40px; 
+    position: fixed; 
+    bottom:0%;
+    width:100%; 
+    opacity: 1;
+    font-size: 10px
+}
+
 
 
 
